@@ -12,10 +12,6 @@
   transform: translate(-50%, -50%);
 }
 
-@media screen and (max-width: 600px) {
-  .topnav a, .topnav-right {
-    float: none;
-    display: block;
 
 ul {
   position: fixed;
