@@ -1,0 +1,38 @@
+ul {
+  position: fixed;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  display: block;
+  color: whitesmoke;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+}
+
+p {
+  color: black;
+  margin-left: 20px;
+}
+
+img {
+  margin: auto;
+}
