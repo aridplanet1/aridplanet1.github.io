@@ -11,7 +11,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: inline;
   color: #F5F5F5;
   padding: 8px 16px;
   text-decoration: none;
