@@ -39,10 +39,9 @@ img {
 
 .navbar {
   width: 100%;
-  position: fixed;
+  position: relative;
   background-color: #000000;
   overflow: auto;
-  display: inline-flex;
 }
 
 .navbar a {
