@@ -42,6 +42,7 @@ img {
   position: fixed;
   background-color: #000000;
   overflow: auto;
+  display: inline-flex;
 }
 
 .navbar a {
