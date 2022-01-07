@@ -1,5 +1,5 @@
 header {
-  font-family: Arial, sans-serif;
+  font-family: Arial Black, sans-serif;
 }
 
 body {
@@ -15,7 +15,12 @@ h1 {
 
 h2 {
   color: black;
-  margin-left: 40px;
+  margin-left: 20px;
+}
+
+h3 {
+  color: black;
+  margin-left: 20px;
 }
 
 p {
@@ -25,13 +30,10 @@ p {
 
 img {
   margin: auto;
+  max-width: 100%;
 }
 
 * {box-sizing: border-box}
-
-img {
-  max-width: 100%;
-}
 
 .navbar {
   width: 100%;
