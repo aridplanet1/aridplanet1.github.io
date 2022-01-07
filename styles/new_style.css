@@ -29,6 +29,10 @@ img {
 
 * {box-sizing: border-box}
 
+img {
+  max-width: 100%;
+}
+
 .navbar {
   width: 100%;
   position: fixed;
