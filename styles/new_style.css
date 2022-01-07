@@ -13,6 +13,11 @@ h1 {
   margin-left: 20px;
 }
 
+h2 {
+  color: black;
+  margin-left: 40px;
+}
+
 p {
   color: black;
   margin-left: 20px;
@@ -37,7 +42,7 @@ img {
   color: whitesmoke;
   text-decoration: none;
   font-size: 17px;
-  width: 50%; /* Four links of equal widths */
+  width: 50%; 
   text-align: center;
 }
 
@@ -49,4 +54,9 @@ img {
     text-align: left;
   }
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+} 
 
