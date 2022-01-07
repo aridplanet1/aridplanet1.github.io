@@ -42,7 +42,6 @@ img {
   position: fixed;
   background-color: #000000;
   overflow: auto;
-  text-align: center;
 }
 
 .navbar a {
@@ -60,7 +59,7 @@ img {
     float: none;
     display: block-flex;
     width: 100%;
-    text-align: left;
+    text-align: center;
   }
 }
 
